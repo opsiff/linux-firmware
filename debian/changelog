@@ -1,3 +1,9 @@
+linux-firmware (20250310.git9e1370d3-0ubuntu1deepin16) unstable; urgency=medium
+
+  * rtl_bt: Upgraded the `rtl_bt/rtl8852bu_fw.bin` firmware to version `0x127c_fd78`
+
+ -- goutongchen <goutongchen@uniontech.com>  Thu, 06 Aug 2026 15:10:40 +0800
+
 linux-firmware (20250310.git9e1370d3-0ubuntu1deepin15) unstable; urgency=medium
 
   * ath12k: Update to support subsystem-vendor=1eac,subsystem-device=8001
