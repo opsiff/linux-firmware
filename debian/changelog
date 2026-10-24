@@ -1,3 +1,12 @@
+linux-firmware (20250310.git9e1370d3-0ubuntu1deepin20) unstable; urgency=medium
+
+  * cirrus: cs35l41: add firmware for new laptops
+    - add firmware for the Lenovo ThinkBook 17AA3845/17AA3846
+    - add firmware for the Lenovo Yoga Slim 7 Carbon 14ACN6 (17AA3856)
+    - add the ASUS Zenbook UM3405GA (104319F4) firmware links
+
+ -- Wentao Guan <guanwentao@uniontech.com>  Wed, 14 Oct 2026 16:05:00 +0800
+
 linux-firmware (20250310.git9e1370d3-0ubuntu1deepin19) unstable; urgency=medium
 
   * iwlwifi: update Intel wireless firmware
